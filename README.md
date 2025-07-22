@@ -1,33 +1,37 @@
 # 💱 Currency Converter
 
 ## 🔗 Live Demo  
-[Currency Converter](https://your-deployed-link-here.com) <!-- Replace with your actual live demo URL -->
+[Currency Converter](https://tharungit220.github.io/Currency-Convertor/) 
 
 ---
 
 ## 🚀 Features  
-- Convert between various currencies  
-- User-friendly interface  
-- Real-time exchange rate updates (via API)
+- Designed and implemented a responsive web application for seamless currency conversion  
+- Retrieves real-time exchange rates through asynchronous API calls  
+- Dynamically updates the interface based on user inputs using DOM manipulation  
+- Enables users to select currencies, input amounts, and view instant conversions  
+- User-friendly layout for an intuitive experience across devices
 
 ---
 
 ## 🛠️ Technologies Used  
-- HTML  
-- CSS  
-- JavaScript  
-- ExchangeRate API (or similar)
+- HTML for structure  
+- CSS for styling and responsive layout  
+- JavaScript for logic, event handling, and API interaction  
+- ExchangeRate API for live currency data
 
 ---
 
 ## 🧭 How to Use  
-1. Select the currencies you want to convert from and to.  
-2. Enter the amount.  
-3. Click the convert button to see the converted amount.
+1. Choose the source and target currencies from the dropdown menus  
+2. Enter the amount to be converted  
+3. Click the **Convert** button to display the result instantly  
 
 ---
 
 ## 🧱 Installation  
 
+To run the project locally:
+
 ```bash
-git clone https://github.com/samithspalan/Currency-converter.git
+git clone https://github.com/TharunGit220/Currency-Convertor
